@@ -3,9 +3,6 @@
 
 Definimos os cenários mais críticos ,de acordo com impacto na experiencia do usuário, Quem utiliza aplicação deve ter a confiabilidade que terá sua solicitação atendida no prazo e com as condições solicitadas, A aplicação deverá atender suas necessidades de forma pratica, deve ser de fácil utilização, sugestiva, que não apresente lentidão e o minimo possível falhas. para não frustar a experiencias , porque ele e quem define de fato o é qualidade.
 
-Abaixo que segue as funcionalidades que julgamos ser priorizadas e passiveis de automação:
-
-Validar pedido Validar Login Validar cadastro
 
 Levantamos alguns cenários especificados em BDD para facilitar o entendimento de toda equipe, mesmo quem não possui conhecimento técnico, pois os cenários e fluxos são escritos de forma natural. Deste cenários um fluxo feliz o mais importante em uma possível regressão esta automatizado. ////////////////////////////////////////
 
